@@ -1,0 +1,54 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    "display": {
+
+
+    "color": {
+
+      "keys": "green",
+
+      "separator": "green",
+
+      "output": "green" // default color , only the output colo of the modules , it measn after the separator
+    },
+  },
+
+
+
+  "modules": [
+    "title",
+    "separator",
+    "os",
+    "host",
+     {
+      "type": "kernel",
+     // "keyColor": "red",
+      "outputColor": "red" // show in red
+      },
+
+    "uptime",
+    "packages",
+    "shell",
+    "display",
+    "de",
+    "wm",
+    "wmtheme",
+    "theme",
+    "icons",
+    "font",
+    "cursor",
+    "terminal",
+    "terminalfont",
+    "cpu",
+    "gpu",
+    "memory",
+    "swap",
+    "disk",
+    "localip",
+    "battery",
+    "poweradapter",
+    "locale",
+    "break",
+    "colors"
+  ]
+}
