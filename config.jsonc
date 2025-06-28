@@ -44,6 +44,11 @@
     "memory",
     "swap",
     "disk",
+    {
+    "type": "sound",
+    "format": "{platform-api}"
+    },
+
     "localip",
     "battery",
     "poweradapter",
