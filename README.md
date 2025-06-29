@@ -1,7 +1,8 @@
+
 # fastfetch
 fastfetch config file for Void Linux
 
-![Captura de pantalla_20241215_122731](https://github.com/user-attachments/assets/fa46cd85-a21a-4af9-aa4a-c6b8bc2a6111)
+![2025-06-29_13-13](https://github.com/user-attachments/assets/3a83f3ac-5ab4-43fd-bbb2-05103331dcce)
 
 
 Location:
